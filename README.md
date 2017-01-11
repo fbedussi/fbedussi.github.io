@@ -18,33 +18,43 @@ I work in the web industry since 2002. At first as a project leader, then, from 
 # Work experience
 
 ## Interface Developer
+
 **2015 > Today**
+
 Yoox Net-A-Porter Group, Via Nannetti 1, Zola Predosa (BO)
 Key responsibilities: front-end development for monobrand web sites. Development of the corporate framework for functional automated testing. Accessibility evangelist.
 
 ## Web developer & web marketing consultant
+
 **2007 > 2014**
+
 Free lance. Key clients: Viro Spa, Centro Anatartide, Sviluppi Urbani Srl.
 Key responsibilities: design and development of web sites and on-line communication campaigns. 
 
 ## Co-founder
+
 **2004 >2007**
+
 Caffe Network Scarl, Bologna, Italy, an agency specialised in the set up, fine tuning, monitoring and management of distribution networks for free press editorial initiatives and for ambient advertising solutions.
 Key responsibilities: start-up, business development, marketing manager.
 
 ## Project leader
+
 **2002 > 2003**
+
 O-one, Reggio Emilia, web agency
 Key responsibilities: business development, project management.
 
 # Education
+
 - **2015** Course “Agile Development”, a week long intensive course on Agile theory and practice followed by a 2 week long boot camp. 
 - **2014** Course on “Information and Communication Technologies: Opportunities for business and local development“ - Spinner, Bologna, Italy
 - **2001** Graduated in Communication Sciences with 110 cum laude (maximum grade) from the University of Bologna, Italy
 
 # Portfolio extract
 
-## Front end development: 
+## Front end development:
+
 - [www.maisonmargiela.com](http://www.maisonmargiela.com), Front-end development of a full responsive web site based on the corporate .NET MVC platform.
 - [](http://www.karl.com), Front-end development of a desktop and mobile web site based on the corporate .NET MVC platform.
 - [](https://github.com/fbedussi/JOE), Mini framework for object composition in front-end development.
@@ -57,6 +67,7 @@ Key responsibilities: business development, project management.
 - [](github.com/fbedussi/joomla_vanilla_js_gallery_plg), Joomla gallery plug-in in vanilla JavaScript.
 
 ## Full stack development:
+
 - [](https://github.com/fbedussi/reveal-js-editor), A cross platform editor (build upon the electron framework) to author reveal.js presentation in markdown.
 - [](https://github.com/fbedussi/nightwatchGui), Graphical User Interface in Node.js for the test automation framework nightwatch-cucumber.
 - [](https://github.com/fbedussi/gpp), Gherkin/Cucumber file preprocessor in Node.Js.
