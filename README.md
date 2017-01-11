@@ -16,7 +16,7 @@ I work in the web industry since 2002. At first as a project leader, then, from 
 - English: advanced (Cambridge Certificate in Advanced English, grade A)
 
 # Work experience
-## Interface Developer**
+## Interface Developer
 **2015 > Today**
 Yoox Net-A-Porter Group, Via Nannetti 1, Zola Predosa (BO)
 Key responsibilities: front-end development for monobrand web sites. Development of the corporate framework for functional automated testing. Accessibility evangelist.
@@ -42,8 +42,8 @@ Key responsibilities: business development, project management.
 - **2001** Graduated in Communication Sciences with 110 cum laude (maximum grade) from the University of Bologna, Italy
 
 # Portfolio extract
-##Front end development: 
-- http://www.maisonmargiela.com, Front-end development of a full responsive web site based on the corporate .NET MVC platform.
+## Front end development: 
+- (http://www.maisonmargiela.com)[http://www.maisonmargiela.com], Front-end development of a full responsive web site based on the corporate .NET MVC platform.
 - http://www.karl.com, Front-end development of a desktop and mobile web site based on the corporate .NET MVC platform.
 - https://github.com/fbedussi/JOE, Mini framework for object composition in front-end development.
 - http://www.bicigeneratori.it, Design and front-end development on Joomla CMS. 
