@@ -1,24 +1,60 @@
-# Simple parallax effect for DOM elements in plain js
+# Who I am
+I am a senior front end developer and junior full stack developer. I’m expert in accessibility, usability, SEO and test automation.
 
-## Use
-Download `parallax.js` and include it in your project. If you use ES6 module you can use `parallaxModule.js` instead.
+# Expertise
+I work in the web industry since 2002. At first as a project leader, then, from 2007 to 2014 as a free lance web developer and web marketing consultant. Since 2015 I am a full time interface developer at Yoox Net-A-Porter Group. 
 
-To enable the parallax effect for an element just call
-````
-createParallax(options);
-````
-this function returns an array of the objects created
+# Skills
+- Front-end development: JavaScript, ES6, Redux.js, React.js, jQuery, HTML5, CSS3, Bootstrap, AJAX
+- Back-end development: Node.Js, PHP, C#, .NET MVC
+- Programming paradigms: OOP, functional programming
+- CMS: Joomla!, Wordpress
+- OS: Linux, Windows
 
-## Options
-| name | type | default value | meaning |
----------------------------------------
-| el | string/nodeList/HTMLElement/jQuery object | none | the element(s) on which the parallax effect will be enabled |
-| initialOffset | int | 50 | the initial vertical offset (in px) that the element has when it enters the viewport |
-| randomizeInitialOffset | bool | true | if true a random amount from 0 to value of initialOffset is added to initialOffset itself |
-| topMargin | int | 0 | the distance form the viewport top where the element must reach its original position |
-| speed | int | 1 | the speed of the element, 1 means that the element goes from initialOffset to the original position in the space between the viewport bottom and topMargin. |
-| randomizeSpeed | bool | true | if true a random amount from 0 to 1 is added to speed |
-| transitionDuration | string (css value) | '0.4s' | the duration of the transition on the transform: translateY applyed to the element |
-| trottleInterval | int | 100 | the trottle interval applied to the scroll listener |
-| yoyo | bool | true | if true the element moves down when scrolling up, if false the element move only upwards |
-| resetAtScrollDown | bool | true | if true reset the offset to initial value when the element exits the viewport from the bottom (e.g. when scrolling up), even if yoyo is disabled |
+# Languages
+- Italian: mother tongue
+- English: advanced (Cambridge Certificate in Advanced English, grade A)
+
+# Work experience
+## Interface Developer**
+**2015 > Today**
+Yoox Net-A-Porter Group, Via Nannetti 1, Zola Predosa (BO)
+Key responsibilities: front-end development for monobrand web sites. Development of the corporate framework for functional automated testing. Accessibility evangelist.
+
+## Web developer & web marketing consultant
+**2007 > 2014**
+Free lance. Key clients: Viro Spa, Centro Anatartide, Sviluppi Urbani Srl.
+Key responsibilities: design and development of web sites and on-line communication campaigns. 
+
+## Co-founder
+**2004 >2007**
+Caffe Network Scarl, Bologna, Italy, an agency specialised in the set up, fine tuning, monitoring and management of distribution networks for free press editorial initiatives and for ambient advertising solutions.
+Key responsibilities: start-up, business development, marketing manager.
+
+## Project leader
+**2002 > 2003**
+O-one, Reggio Emilia, web agency
+Key responsibilities: business development, project management.
+
+# Education
+- **2015** Course “Agile Development”, a week long intensive course on Agile theory and practice followed by a 2 week long boot camp. 
+- **2014** Course on “Information and Communication Technologies: Opportunities for business and local development“ - Spinner, Bologna, Italy
+- **2001** Graduated in Communication Sciences with 110 cum laude (maximum grade) from the University of Bologna, Italy
+
+# Portfolio extract
+##Front end development: 
+- http://www.maisonmargiela.com, Front-end development of a full responsive web site based on the corporate .NET MVC platform.
+- http://www.karl.com, Front-end development of a desktop and mobile web site based on the corporate .NET MVC platform.
+- https://github.com/fbedussi/JOE, Mini framework for object composition in front-end development.
+- http://www.bicigeneratori.it, Design and front-end development on Joomla CMS. 
+- http://www.carismarct.com, Design and front-end development on Joomla CMS.
+- http://www.legambientebologna.org, Design and front-end development on Joomla CMS.
+- http://www.greennight.it, Design and front-end development on Joomla CMS.
+- http://clubsicurezza.viro.it, Design and front-end development on Wordpress CMS.
+- www.italiativogliobene.it, Web site setup on Wordpress CMS and development of a mini application for booking management.
+- github.com/fbedussi/joomla_vanilla_js_gallery_plg, Joomla gallery plug-in in vanilla JavaScript.
+
+## Full stack development:
+- https://github.com/fbedussi/nightwatchGui, Graphical User Interface in Node.js for the test automation framework nightwatch-cucumber.
+- https://github.com/fbedussi/gpp, Gherkin/Cucumber file preprocessor in Node.Js.
+- https://github.com/fbedussi/addressbook, Web based address book manager for small organizations written in PHP.
