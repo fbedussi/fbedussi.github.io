@@ -16,6 +16,7 @@ I work in the web industry since 2002. At first as a project leader, then, from 
 - English: advanced (Cambridge Certificate in Advanced English, grade A)
 
 # Work experience
+
 ## Interface Developer
 **2015 > Today**
 Yoox Net-A-Porter Group, Via Nannetti 1, Zola Predosa (BO)
@@ -42,19 +43,21 @@ Key responsibilities: business development, project management.
 - **2001** Graduated in Communication Sciences with 110 cum laude (maximum grade) from the University of Bologna, Italy
 
 # Portfolio extract
+
 ## Front end development: 
-- (http://www.maisonmargiela.com)[http://www.maisonmargiela.com], Front-end development of a full responsive web site based on the corporate .NET MVC platform.
-- http://www.karl.com, Front-end development of a desktop and mobile web site based on the corporate .NET MVC platform.
-- https://github.com/fbedussi/JOE, Mini framework for object composition in front-end development.
-- http://www.bicigeneratori.it, Design and front-end development on Joomla CMS. 
-- http://www.carismarct.com, Design and front-end development on Joomla CMS.
-- http://www.legambientebologna.org, Design and front-end development on Joomla CMS.
-- http://www.greennight.it, Design and front-end development on Joomla CMS.
-- http://clubsicurezza.viro.it, Design and front-end development on Wordpress CMS.
-- www.italiativogliobene.it, Web site setup on Wordpress CMS and development of a mini application for booking management.
-- github.com/fbedussi/joomla_vanilla_js_gallery_plg, Joomla gallery plug-in in vanilla JavaScript.
+- [www.maisonmargiela.com](http://www.maisonmargiela.com), Front-end development of a full responsive web site based on the corporate .NET MVC platform.
+- [](http://www.karl.com), Front-end development of a desktop and mobile web site based on the corporate .NET MVC platform.
+- [](https://github.com/fbedussi/JOE), Mini framework for object composition in front-end development.
+- [](http://www.bicigeneratori.it), Design and front-end development on Joomla CMS. 
+- [](http://www.carismarct.com), Design and front-end development on Joomla CMS.
+- [](http://www.legambientebologna.org), Design and front-end development on Joomla CMS.
+- [](http://www.greennight.it), Design and front-end development on Joomla CMS.
+- [](http://clubsicurezza.viro.it), Design and front-end development on Wordpress CMS.
+- [](www.italiativogliobene.it), Web site setup on Wordpress CMS and development of a mini application for booking management.
+- [](github.com/fbedussi/joomla_vanilla_js_gallery_plg), Joomla gallery plug-in in vanilla JavaScript.
 
 ## Full stack development:
-- https://github.com/fbedussi/nightwatchGui, Graphical User Interface in Node.js for the test automation framework nightwatch-cucumber.
-- https://github.com/fbedussi/gpp, Gherkin/Cucumber file preprocessor in Node.Js.
-- https://github.com/fbedussi/addressbook, Web based address book manager for small organizations written in PHP.
+- [](https://github.com/fbedussi/reveal-js-editor), A cross platform editor (build upon the electron framework) to author reveal.js presentation in markdown.
+- [](https://github.com/fbedussi/nightwatchGui), Graphical User Interface in Node.js for the test automation framework nightwatch-cucumber.
+- [](https://github.com/fbedussi/gpp), Gherkin/Cucumber file preprocessor in Node.Js.
+- [](https://github.com/fbedussi/addressbook), Web based address book manager for small organizations written in PHP.
