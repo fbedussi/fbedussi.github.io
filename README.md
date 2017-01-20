@@ -1,15 +1,16 @@
 # Who I am
-I am a senior front end developer and junior full stack developer. I’m expert in accessibility, usability, SEO and test automation.
+I am a senior front end developer. I’m expert in usability, accessibility, and functional test automation.
 
 # Expertise
 I work in the web industry since 2002. At first as a project leader, then, from 2007 to 2014 as a free lance web developer and web marketing consultant. Since 2015 I am a full time interface developer at Yoox Net-A-Porter Group. 
 
 # Skills
-- Front-end development: JavaScript, ES6, Redux.js, React.js, jQuery, HTML5, CSS3, Bootstrap, AJAX
-- Back-end development: Node.Js, PHP, C#, .NET MVC
+- Front-end development: JavaScript, ES6, Redux.js, React.js, jQuery, HTML5, CSS3, Sass, Bootstrap, Foundation, AJAX, SVG
+- Back-end development: Node.Js, PHP, C#, .NET MVC, Electron
 - Programming paradigms: OOP, functional programming
 - CMS: Joomla!, Wordpress
 - OS: Linux, Windows
+- Tools: git, Mercurial, Visual Studio, Webpack, npm, ESlint, Postcss
 
 # Languages
 - Italian: mother tongue
