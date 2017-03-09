@@ -61,6 +61,7 @@ Key responsibilities: business development, project management.
 ## Front end development:
 
 - [www.maisonmargiela.com](http://www.maisonmargiela.com), Front-end development of a full responsive web site based on the corporate .NET MVC platform.
+- [http://www.dsquared2.com](http://www.dsquared2.com/it), Partial rework, bugfix & maintenance
 - [http://www.y-3.com](http://www.y-3.com/), Front-end development of a desktop and mobile web site 
 - [www.karl.com](http://www.karl.com), Front-end development of a desktop and mobile web site based on the corporate .NET MVC platform.
 - [JOE](https://github.com/fbedussi/JOE), Mini framework for object composition in front-end development.
