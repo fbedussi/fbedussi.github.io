@@ -1,5 +1,7 @@
+I like to make things, to solve problems and to learn.
+
 # Who I am
-I am a senior front end developer. I’m expert in usability, accessibility, and functional test automation.
+I am a senior front end developer. I’m expert in usability, accessibility, and test automation.
 
 # Expertise
 I work in the web industry since 2002. At first as a project leader, then, from 2007 to 2014 as a free lance web developer and web marketing consultant. Since 2015 I am a full time interface developer at Yoox Net-A-Porter Group. 
